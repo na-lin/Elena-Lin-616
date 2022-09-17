@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elena-Lin-616
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning HTML and CSS and JavaScript
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning knowledge of front-end and back-end. 
 
 
 <!---
