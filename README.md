@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elena-Lin-616
+- 👋 Hi, I’m Na Lin
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning knowledge of front-end and back-end. 
 
